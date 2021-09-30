@@ -180,3 +180,7 @@ input[type='number']{
 .ion-social-linkedin:hover {
     color: #517fa4;
 }
+.icon-links {
+    width: 25px;
+    height: 25px;
+}
