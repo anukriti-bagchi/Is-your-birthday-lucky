@@ -1,5 +1,5 @@
 //Initializing variables to fetch data
-const dob = document.querySelector("#date-dob");;
+const dob = document.querySelector("#date-dob");
 const numLucky = document.querySelector("#num-luck");
 
 const btnCheck = document.querySelector("#btn-check");
