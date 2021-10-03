@@ -134,7 +134,8 @@ input[type='number']{
 
 /* ----------------------------------Footer--------------------------------------------- */
 .contacts {
-    background-color: #333;
+    /* background-color: #333; */
+    background-color: #9CA3AF;
     position: absolute;
     bottom: 1rem;
     font-size: 80%;
